@@ -1,0 +1,107 @@
+.div1{
+    display:flex;
+}
+.divfirst{
+    height: 20rem;
+    width: 30rem;
+    background-color: blueviolet;
+    border-radius: 12px;
+    margin-left: 30px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.divsecond{
+    height: 20rem;
+    width: 23rem;
+    background-color: rgb(53, 68, 89) ;
+    margin-left: 10px;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.divthird{
+    height: 40rem;
+    width: 20rem;
+    background-color: white;
+    margin-left: 10px;
+    border-radius: 12px;
+    margin-left: 12px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+.divtwo{
+    display: flex;
+    margin-top: -19rem;
+    margin-left: 20px;
+    
+}
+.divone{
+    height: 20rem;
+    width: 21rem;
+    margin: 12px;
+    border-radius: 12px;
+    margin-top: -1px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+   
+}
+.divtwo2{
+    height: 20rem;
+    width: 32rem;
+    background-color: rgb(20, 28, 28); 
+    border-radius: 12px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+   
+}
+.divfirst1{
+    display: flex;
+}
+.images1{
+    border-radius: 12rem;
+    margin-left: 1rem;
+    margin-top: 1rem;
+}
+h6{
+    color: white;
+}
+.lable1{
+    color: white;
+    text-shadow: 0cqb;
+}
+.h61{
+    padding-right: 2rem;
+}
+h3{
+    color: white;
+}.chip {
+    display: inline-block;
+    padding: 0 25px;
+    height: 50px;
+    font-size: 16px;
+    line-height: 50px;
+    border-radius: 30px;
+   
+  }
+  
+  .chip img {
+    float: left;
+    margin: 0 10px 0 -25px;
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+  }
+  h2{
+    color: black;
+  }
+  .balck{
+    color: black;
+  }
+  .font{
+    color: white;
+  }
+  #para3{
+    color: white;
+  }
+  .namelast{
+    color: white;
+  }
+  .firstdiv{
+    color: white;
+  }
